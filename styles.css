@@ -1,0 +1,49 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #9be3de;
+}
+
+h1 {
+  margin: 20px;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 3px 0 #232931;
+  font-size: 6rem;
+  color: #00918e;
+}
+
+h2 {
+  text-align: center;
+  margin: 10px ;
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
+  color: #1b2a49;
+}
+
+p {
+  font-size: 2rem;
+  color: #00918e;
+  font-family: 'Neucha', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 3%;
+  color: #000;
+  text-align: center;
+  font-family: 'Neucha', cursive;
+
+}
